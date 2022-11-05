@@ -1,0 +1,22 @@
+{
+  "name": "stackoverfriend",
+  "version": "1.0.0",
+  "description": "Your own personal StackOverFriend who you can outsource all your creative labor too!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julian31186/StackOverFriend.git"
+  },
+  "author": "Julian Elmasry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julian31186/StackOverFriend/issues"
+  },
+  "homepage": "https://github.com/julian31186/StackOverFriend#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
