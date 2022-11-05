@@ -3,4 +3,4 @@ Your own personal StackOverFriend who you can outsource all your creative labor 
 
 
 (echo "alias ask='node index.js'" > ~/.bashrc)
--add to your bash terminal for alias
+-add to your bash terminal while inside the file directory
