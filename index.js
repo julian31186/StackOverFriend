@@ -29,6 +29,7 @@ async function AI(input) {
     console.log(completion.data.choices[0].text)
 
     }catch(error) {
+        console.log(error.status)
         console.log("Please Enter Valid Input")
     }
 }
