@@ -1,6 +1,6 @@
 # StackOverFriend
 Your own personal StackOverFriend who you can outsource all your creative labor to!
-(GET YOUR OWN API KEY AND PUT IT AND REPLACE apiKey:)
+(USE PERSONAL API KEY
 
 clone
 
