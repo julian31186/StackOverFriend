@@ -1,6 +1,6 @@
 # StackOverFriend
 Your own personal StackOverFriend who you can outsource all your creative labor to!
-(USE PERSONAL API KEY
+(USE PERSONAL API KEY)
 
 clone
 
